@@ -31,4 +31,4 @@ jobs:
             context: .
             file: ./Dockerfile
             push: true
-            tags: bakarel1234844/flask-devops-app:latest
+            tags: njange/flask-devops-app:latest
