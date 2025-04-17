@@ -1,6 +1,3 @@
-Here is a `README.md` file for your project:
-
-```markdown
 # Flask DevOps App
 
 This project is a simple Flask application designed to demonstrate DevOps practices, including containerization with Docker and CI/CD automation using GitHub Actions.
@@ -176,7 +173,7 @@ __pycache__
 
 GitHub Actions workflow for CI/CD:
 
-```yml
+```yaml
 name: Docker Build and Push Docker image to Docker Hub
 
 on:
@@ -230,6 +227,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Author
 
 Created by [njange](https://github.com/njange).
-```
 
-This `README.md` provides a comprehensive overview of your project, including setup instructions, Dockerization, and CI/CD details. Let me know if you need further adjustments!
+
