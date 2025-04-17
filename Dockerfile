@@ -7,6 +7,7 @@ WORKDIR /app
 # Copy app files
 Copy . .
 
+
 # Install Flask
 RUN pip install Flask
 
