@@ -1,11 +1,11 @@
 #Use an official python image
-From python:3.9-slim
+FROM python:3.9-slim
 
 # Set work directory
 WORKDIR /app
 
 # Copy app files
-Copy . .
+COPY . .
 
 
 # Install Flask
